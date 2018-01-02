@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c97a1835-415a-4635-b3f1-2af0835b5923" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/Adventure/com/example/test/Location.class" afterPath="$PROJECT_DIR$/out/production/Adventure/com/example/test/Location.class" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/test/Location.java" afterPath="$PROJECT_DIR$/src/com/example/test/Location.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/test/Main.java" afterPath="$PROJECT_DIR$/src/com/example/test/Main.java" />
-    </list>
+    <list default="true" id="c97a1835-415a-4635-b3f1-2af0835b5923" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
